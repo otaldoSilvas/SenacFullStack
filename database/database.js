@@ -1,4 +1,4 @@
 let banco = [];
-let produtos = [];
+let pessoas = [];
 
-module.exports = {banco, produtos};
+module.exports = {banco, pessoas};
