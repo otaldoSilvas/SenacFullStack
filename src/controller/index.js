@@ -1,4 +1,4 @@
-const { pessoas } = require('../database/database');
+const { pessoas } = require('../../database/database');
 
 // pessoas.findIndex()
 
